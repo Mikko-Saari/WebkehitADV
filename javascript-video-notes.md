@@ -58,3 +58,34 @@ Muuttujatyyppejä on kolme, ja `const` sekä `let` ovat samankaltaisia, mutta `c
 
 Videolla käydään läpi edellisessä videossa opetettuja asioita käytännössä.  
 Mielenkiintoista on se, että `var`-muuttujaa kannattaa välttää, koska se voi aiheuttaa helposti virheitä.
+
+---
+
+## Working with strings [11 of 51]
+
+
+Videolla selitetään miten JS käytetään stringejä. Videolla myös mitä on string concatenation eli kahden tai useamman stringin yhdistämistä.
+
+---
+
+## Demo: Working with strings [12 of 51]
+
+Demotaan vaan aikaisemman videon asiaa mutta rehellisesti aivan sama video kuin aikaisempi mutta dia showin sijasta on auki vscode
+
+
+## Using template literals to format strings [13 of 51]
+ 
+Käydään läpi mitä eroa on Concatenation operatorilla ja template literali. Suurin ero niillä on että concatetaion tarvii "" ja Template {}.
+
+---
+
+## Demo: Using template literals to format strings [14 of 51]
+
+Videossa demotaan aikaisemmin käytyä teoriaa tässäkään ei hirveästi uutta oppinut sillä dian sijaan on taas auki vscode.
+
+
+## Data types in JavaScript [15 of 51]
+
+Videossa kerrotaan että JS on heikosti tyypitetty kieli jossa muuttujia ei tarvitse määritellä erikseen. Tämä tekee siitä yksinkertaisemman.
+
+---
