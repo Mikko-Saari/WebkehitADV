@@ -1,54 +1,60 @@
-For each video, write a short personal note (approximately 1–2 sentences):
+## Beginning the Beginner's Series [1 of 51]
 
-Summarize the main idea, or
-Describe what you learned, or
-Highlight something you found important or interesting.
+Ensimmäisessä videossa kerrottiin, mitä tullaan opettamaan ja miten siitä on hyötyä. Lisäksi näytettiin, ketkä ovat olleet tekemässä tätä sarjaa.  
+Mielenkiintoista videossa oli kaikki eri ihmiset, jotka ovat olleet toteuttamassa sitä.
 
+---
 
-Beginning the Beginner's series [1 of 51]
+## What is JavaScript [2 of 51]
 
-Ensimmäisessä videossa kerrottiin mitä tullaan opettamaan ja miten siitä on hyötyä. Tämän lisäksi myös näytettiin ketkä on ollut tekemässä tätä sarjaa.
-Mielenkiintoista videossa oli kaikki eri ihmiset jotka ovat olleet toteuttamassa sitä.
+Videon pointti on selittää, mikä JavaScript on. Opin, että JS on tehty sitä varten, että voidaan olla vuorovaikutuksessa nettisivujen elementtien kanssa.  
+JavaScriptissä ei tarvitse erikseen määritellä muuttujan tyyppiä.
 
+---
 
-What is JavaScript [2 of 51] 
+## Running JavaScript: Browser or Server [3 of 51]
 
+Videon pointti on selittää eroavaisuuksia serverille ja clientille kirjoitettavan JavaScriptin välillä.  
+Jos haluaa kokeilla koodiaan serverillä, tarvitsee Node.js:n.
 
-Videon pointti on selittää mikä JS on. Videosta opin että JS on tehty sitä varten että voidaan olla kanssa käymisessä nettisivujen elementtien kanssa. JS Ei tarvitse erikseen kertoa variablen tyyppiä.
+---
 
+## Building Your Toolbox [4 of 51]
 
-Running JavaScript: browser or server [3 of 51]
+Videon pointti on kertoa, mitä tarvitaan, jotta voi alkaa kirjoittamaan JavaScriptiä.  
+Node.js näyttää olevan tarpeellinen, vaikka koodaisi vain nettisivuja eikä pelkästään servereitä.
 
-Videon pointti on selittää eroavaisuuksia siitä miten serverille kirjoitettava JS ja clientille kirjoitettava eroavat toisistaan. Jos haluaa kokeilla koodiaan serverillä tarvitsee node.js.
+---
 
+## Creating Your First Application [6 of 51]
 
-Building your toolbox [4 of 51]
+Videossa kerrotaan, miten tehdään ensimmäinen JavaScript-projekti nollasta.  
+Console.log toimii samalla tavalla kuin C#:ssa `Console.WriteLine`, ja teksti täytyy kirjoittaa `" "`-merkkien väliin.
 
-Videon pointti on kertoa mitä tarvitsee että voi alkaa kirjoittamaan JS. Node.js ilmeisesti tarvii vaikka koodaisi nettisivuja elikkä ei pelkästään servereillä.
+---
 
+## Comments [7 of 51]
 
-Creating your first application [6 of 51]
+Videon pointti on opettaa, miten JavaScriptissä kommentoidaan koodia.  
+Mielenkiintoista oli, että `//` kommentoi yhden rivin ja `/* */` kommentoi useamman rivin kerralla.
 
-Videon pointti on kertoa miten tehdään ensimmäinen JS projekti nollasta. Console.log on ilmeisesti sama asia kuin csharpilla console.writeline. Tekstin pitää olla " välissä.
+---
 
+## Demo: Comments [8 of 51]
 
-Comments [7 of 51]
+Videolla käydään konkreettisesti läpi edellisen videon teoriaa.  
+Mielenkiintoista oli `// TODO` -kommentti, jolla voi muistuttaa itseään keskeneräisistä asioista.
 
-Videon pointti on opettaa miten JS voidaan kommentoida koodia. Mielenkiintoista oli että // voidaan kommentoida yksi rivi koodista pois mutta /*  * / välille sijoitettava koodi kommentoituu kokonaan.
+---
 
-Demo: Comments [8 of 51]
+## Declaring Variables [9 of 51]
 
-Videolla käydään vaan konkreettisesti läpi aikaisemman videon teoriaa. Mielenkiintoista videossa oli kikka // TODO jolla voi muistuttaa itseään mitä oli tekemässä.
+Videolla opetetaan, miten muuttujia käytetään JavaScriptissä.  
+Muuttujatyyppejä on kolme, ja `const` sekä `let` ovat samankaltaisia, mutta `const`-muuttujan arvoa ei voi muuttaa myöhemmin.
 
+---
 
-Declaring variables [9 of 51]
+## Demo: Declaring Variables [10 of 51]
 
-Videolla opetetaan miten käytetään variableja. JS niitä on kolme ja jokainen toimii omalla tavallaan. const ja let on samanlaisia mutta const arvoa ei voi muuttaa sen jälkeen kun se on annettu.
-
-
-Demo:Declaring variables [10 of 51]
-
-Käydään läpi aikaisemmalla videolla opetettua asiaa. Mielenkiintoista on se että var variablea tulee välttää sillä sen kanssa voi käydä helposti vahinko.
-
-
-
+Videolla käydään läpi edellisessä videossa opetettuja asioita käytännössä.  
+Mielenkiintoista on se, että `var`-muuttujaa kannattaa välttää, koska se voi aiheuttaa helposti virheitä.
