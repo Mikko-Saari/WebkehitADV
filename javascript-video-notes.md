@@ -180,3 +180,35 @@ Arrayn voi tehdä kahdella tavalla joko manuaalisesti tai käyttämällä array 
 En oppinut mitään uutta sillä demossa käytiin kirjaimellisesti samat asiat kuin aikaisemmassa teoria videossa.
 
 ---
+
+## Populating arrays [31 of 51]
+
+Jos haluaa viitata johonkin arrayssa olevaan dataan pitää käyttää sille annettua indexiä. Arrayn numerot alkavat 0 eikä 1.
+
+---
+
+## Demo: Populating arrays [32 of 51]
+
+Arrayhyn voi syöttää dataa laittamalla let arr1 = ["A", true, 2] jossa A on string true on true ja 2 on numero.
+
+---
+
+## Array methods [33 of 51]
+
+Push ja Pop vaikuttaa arrayn loppuun. Push lisää yhden arvon loppuun ja pop poistaa yhden.
+
+---
+
+## Demo: Array methods [34 of 51]
+
+shift lisää uuden arvon arrayn alkuun ja poistaa ensimmäisen arvon arraysta.
+
+---
+
+## Loops [35 of 51]
+
+For loop on tehty sellaisia funktioita varten jotka halutaan suorittaa tietyn monta kertaa. for ja for each on erilaisia JS.
+
+
+
+
