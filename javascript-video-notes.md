@@ -135,5 +135,48 @@ Demotaan aikaisempaa teoriaa mutta syvällisemmin. Lisäksi opin että "finally"
 
 ## Dates [23 of 51]
 
-Keskimmäinen asia päivämäärien kanssa on Date objekti joka sisältää päivämäärän sekä ajan.
+Keskimmäinen asia päivämäärien kanssa on Date objekti joka sisältää päivämäärän sekä ajan. Sekä että kuukaudet alkaa 0 ei 1 esim tammikuu olisi 0 kuukausi ei 1.
 
+---
+
+## Demo: Dates [24 of 51]
+
+Jos haluaa jonkin tietyn päivämäärän voi tehdä siitä muuttujan käyttämällä const x = new Date(2001, 2, 22) 
+
+---
+
+## Boolean logic with if statements [25 of 51]
+
+== vertaa muuttujia ottamatta huomioon data tyyppiä kun taas === tarkistaa data tyypinkin. "best practice" on käyttää aina ===
+
+---
+
+## Demo: Boolean logic with if statements [26 of 51]
+
+Yksittäisiä rivejä kirjoittaessa voi mahdollisesti poistaa { ehtolausekkeista mutta se ei ole kannattavaa sillä se voi johtaa turhiin bugeihin.
+
+---
+
+## Boolean logic with switch and other syntax [27 of 51]
+
+Jos "jos" lausekkeen sisälle jossa on esim muuttuja (x) lisätään (!x) niin se kääntää lopputuloksen. JS stringit on case sensitive. Muuttujia vertaillessa niitä voidaan yhdistää & ja | 
+
+---
+
+## Demo: Boolean logic with switch and other syntax [28 of 51]
+
+Vidoessa demottiin vaan kaikki mitä aikaismmissa videoissa on käyty läpi eli casesensitive, ! kääntää logiikan === tarkistaa datatyypin eikä pelkkää arvoa.
+
+---
+
+## Creating arrays [29 of 51]
+
+Arrayn voi tehdä kahdella tavalla joko manuaalisesti tai käyttämällä array objektia, mutta objektia käyttäessä tulee määrittää arrayLength.
+
+---
+
+## Demo: Creating arrays [30 of 51]
+
+En oppinut mitään uutta sillä demossa käytiin kirjaimellisesti samat asiat kuin aikaisemmassa teoria videossa.
+
+---
