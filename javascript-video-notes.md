@@ -89,3 +89,51 @@ Videossa demotaan aikaisemmin käytyä teoriaa tässäkään ei hirveästi uutta
 Videossa kerrotaan että JS on heikosti tyypitetty kieli jossa muuttujia ei tarvitse määritellä erikseen. Tämä tekee siitä yksinkertaisemman.
 
 ---
+
+## Demo: Data types in JavaScript [16 of 51]
+
+Demotaan miksi pitää olla tarkka mitä datatyyppejä käyttää ettei tule virheitä. Demossa näytetään ensin väärä tapa käyttää muuttujia ja sen jälkeen oikea.
+
+---
+
+## Math in JavaScript [17 of 51]
+
+Jos on monimutkaisempia kuin + - ja / laskuja niin kannattaa käyttää Math objektia
+
+---
+
+## Demo: Math in JavaScript [18 of 51]
+
+Näytetään miten tehdään perus laskuja + - ++ -- / ja näytetään math object käytännössä ja käytetään neliöjuurta siellä. Ensimmäinen kuukausi alkaa 0 ei 1.
+
+---
+
+## Converting strings to numbers [19 of 51]
+
+
+Jos haluaa JS muuttaa stringin numeroksi niin pitää käyttää parseint() tai parseFloat() näissä kahdessa on erona se että parseFloat toimii desimaalijen kanssa.
+
+---
+
+## Demo: Converting strings to numbers [20 of 51]
+
+Demotaan miten muutetaan stringejä integereiksi käyttämällä parseInt()
+
+---
+
+## Handling errors with try/catch/finally [21 of 51]
+
+Javasrcipt voi antaa poikkeus viestin ilman että sitä on itse koodannut. Poikkeuksen koodatessa on tärkeää kertoa koodille miten sen tulee jatkaa.
+
+---
+
+## Demo: Handling errors with try/catch/finally [22 of 51]
+
+Demotaan aikaisempaa teoriaa mutta syvällisemmin. Lisäksi opin että "finally" tagin sisällä oleva koodi menee aina läpi.
+
+---
+
+## Dates [23 of 51]
+
+Keskimmäinen asia päivämäärien kanssa on Date objekti joka sisältää päivämäärän sekä ajan.
+
