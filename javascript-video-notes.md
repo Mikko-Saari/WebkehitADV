@@ -209,6 +209,52 @@ shift lisää uuden arvon arrayn alkuun ja poistaa ensimmäisen arvon arraysta.
 
 For loop on tehty sellaisia funktioita varten jotka halutaan suorittaa tietyn monta kertaa. for ja for each on erilaisia JS.
 
+---
+
+## Demo: Loops [36 of 51]
+
+For loopissa ei tarvitse määritellä indexiä erikseen kun taas while loopissa tarvii.
+
+---
+
+## Functions [37 of 51]
+
+Funktioiden avulla säästetään tilaa ja se parantaa koodin ylläpitämistä. Funktion ansiosta samaa koodia ei tarvitse kirjoittaa moneen kertaan.
+
+---
+
+## Demo: Functions [38 of 51]
+
+funktio jonka sisällä on console.log("Hello world") ei tulosta vielä viestiä vaan funktiota pitää kutsua erikseen jotta saa sen tulostettua.
+
+---
+
+## Arrow and anonymous functions [39 of 51]
+
+Arrow funktionin sisällä olevaa tietoa ei voi muokata.
+
+---
+
+## Demo: Arrow and anonymous functions [40 of 51]
+
+Arrow funktionin loppuun ei tarvitse laittaa "return x" koska se tekee sen automaattisesti mikä on hyvä sekä huono asia.
+
+---
+
+## JavaScript Object Notation (JSON) [41 of 51]
+
+JSON muodossa tiedot ovat nimi-arvo järjestyksessä esim "title":"Becoming,
+
+---
+
+## Demo: JavaScript Object Notation (JSON) [42 of 51]
+
+JSONIN tarkoitus on muuttaa objektit ja listat teksti muotoon koska monet apit vaativat että pyynnöt ovat teksti muodossa.
+
+---
+
+## Objects in JavaScript [43 of 51]
 
 
 
+---
