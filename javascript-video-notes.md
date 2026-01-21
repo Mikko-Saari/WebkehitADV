@@ -301,6 +301,13 @@ Paketit ovat uudelleen käytettäviä koodin pätkiä ja niitä löytää valmii
 ## Demo: Package management [50 of 51]
 
 
+Videossa vaan demotaan ensin miten esim prettyer package joka formattaa koodista helpommin luettavaa. Käydään myös muita packageita läpi mutta aikalailla sama kaava toistuu.
 
+---
+
+
+## Next steps [51 of 51]
+
+Videolla kerrotaan että nyt kannatttaisi alkaa koodaamaan. LOPPU
 
 ---
