@@ -256,6 +256,51 @@ JSONIN tarkoitus on muuttaa objektit ja listat teksti muotoon koska monet apit v
 ## Objects in JavaScript [43 of 51]
 
 
+Methodit ovat objektejen funktioita.
+
+---
+
+## Demo: Objects in JavaScript [44 of 51]
+
+Objekteja voi rakentaa joko käyttämällä object literaaleja tai constructioneiden avulla.
+
+---
+
+## Promises for long running operations [45 of 51] 
+
+Opin että applicaatiot monesti tai yleensä voivat käyttää single threadia vaikka käyttäjän koneessa niitä olisi 16 mikä hidastaa sovellusta huomattavasti.
+
+---
+
+## Demo: Promises for long running operations [46 of 51]
+
+console.log(result) antaa sen mitä on "return Promise.resolve" vastaus kaikki muu meni yli hilseen.
+
+---
+
+## Async/await for managing promises [47 of 51]
+
+Async/await on parempi kuin promise koska se on tehokkaampi ja vie vähemmän tilaa. Näyttää myös paljon helpommalta lukea.
+
+---
+
+## Demo: async/await for managing promises [48 of 51]
+
+Async/await on rakennettu promisen päälle. Async on puhtaampi ja parempi versio promisesta ja mielestäni helpommin ymmärrettävissä.
+
+---
+
+
+## Package management [49 of 51]
+
+
+Paketit ovat uudelleen käytettäviä koodin pätkiä ja niitä löytää valmiina NPM:stä. Pakettijen ansiosta säästää aikaa esim const x = require ("express"); säästää kymmeniltä koodi rivijen kirjoittamiselta.
+
+---
+
+## Demo: Package management [50 of 51]
+
+
 
 
 ---
